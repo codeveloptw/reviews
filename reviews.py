@@ -15,8 +15,9 @@ for d in data:
 print(f'總長度 {total_len} ,平均長度 {total_len/len(data)}')
 
 # 篩選有 'good' 
-good = []
+
 #-------------------------
+#good = []
 # for d in data:
 # 	if 'good' in d:
 # 		good.append(d)
